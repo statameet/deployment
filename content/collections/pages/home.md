@@ -13,7 +13,7 @@ page_builder:
   -
     text: |-
       Hello
-      Statameet
+      Statameet 2
     image: portrait-angeline-travis.jpg
     type: introduction
     enabled: true

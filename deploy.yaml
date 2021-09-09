@@ -5,6 +5,9 @@ config:
   url: 'live.statameet.com'
   application: 'Statameet'
   repository: 'git@github.com:statameet/deployment.git'
+  keep_releases: 3
+  shared_dirs:
+    - public/img
 
 hosts:
   live:

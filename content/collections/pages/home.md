@@ -10,10 +10,10 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 page_builder:
-  -
+  - 
     text: |-
       Hello
-      Statameet 2
+      Again. Amazing!
     image: portrait-angeline-travis.jpg
     type: introduction
     enabled: true

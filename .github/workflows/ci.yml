@@ -1,7 +1,6 @@
 name: Continous Integration - Statameet 2021
 
-on:
-  push:
+on: workflow_dispatch
 
 jobs:
   deploy_live:

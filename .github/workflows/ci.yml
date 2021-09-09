@@ -26,7 +26,6 @@ name: Continous Integration - Statameet 2021
 
 #on:
 #  push:
-#    branches: [ deployment ]
 #
 #jobs:
 #  deploy_staging:

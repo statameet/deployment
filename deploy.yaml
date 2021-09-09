@@ -2,7 +2,8 @@ import:
     - recipe/statamic.php
 
 config:
-  url: 'live.statameet.com'
+  live_url: 'live.statameet.com'
+  staging_url: 'staging.statameet.com'
   application: 'Statameet'
   repository: 'git@github.com:statameet/deployment.git'
   keep_releases: 3
@@ -11,7 +12,10 @@ config:
 
 hosts:
   live:
-    deploy_path: '~/{{url}}'
+    deploy_path: '~/{{live_url}}'
+    hostname: 'forge@159.69.125.76'
+  staging:
+    deploy_path: '~/{{staging_url}}'
     hostname: 'forge@159.69.125.76'
 
 tasks:

@@ -12,7 +12,6 @@ sitemap_priority: 0.5
 page_builder:
   - 
     text: |-
-      YEAH!
       Statameet
       2021
     image: portrait-angeline-travis.jpg

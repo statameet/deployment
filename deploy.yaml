@@ -25,7 +25,6 @@ tasks:
     - 'artisan:optimize:clear'
     # - 'statamic:static:clear'
     # - 'statamic:assets:generate-presets'
-    -
     # - 'statamic:static:warm'
     # - 'statamic:stache:warm'
     - 'artisan:optimize'

@@ -12,7 +12,7 @@ sitemap_priority: 0.5
 page_builder:
   - 
     text: |-
-      Angeline 
+      Angeline
       Travis
     image: portrait-angeline-travis.jpg
     type: introduction

@@ -12,8 +12,7 @@ sitemap_priority: 0.5
 page_builder:
   - 
     text: |-
-      Angelina
-      Travis
+      YEAHHH
     image: portrait-angeline-travis.jpg
     type: introduction
     enabled: true

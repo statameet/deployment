@@ -15,7 +15,7 @@ hosts:
   staging:
     hostname: 'forge@159.69.125.76'
     deploy_path: '~/staging.statameet.com'
-    branch: 'main'
+    branch: 'dev'
 
 tasks:
   npm:production:

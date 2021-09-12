@@ -13,7 +13,8 @@ page_builder:
   - 
     text: |-
       Statameet
-      2021
+      2021.
+      YEAH!
     image: portrait-angeline-travis.jpg
     type: introduction
     enabled: true

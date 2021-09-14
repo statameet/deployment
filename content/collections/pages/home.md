@@ -12,8 +12,8 @@ sitemap_priority: 0.5
 page_builder:
   - 
     text: |-
-      Angeline
-      Travis
+      Statameet
+      2021
     image: portrait-angeline-travis.jpg
     type: introduction
     enabled: true

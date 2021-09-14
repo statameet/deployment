@@ -2,7 +2,7 @@ name: Live CI - Statameet 2021
 
 on:
   push:
-    branches: [ main ]
+    branches: [ dev ]
 
 jobs:
   deploy_live:
@@ -26,4 +26,4 @@ jobs:
         uses: deployphp/action@master
         with:
           private-key: ${{ secrets.PRIVATE_KEY }}
-          dep: deploy live -v
+          dep: deploy staging -v

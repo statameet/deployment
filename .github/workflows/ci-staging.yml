@@ -1,4 +1,4 @@
-name: Live CI - Statameet 2021
+name: Staging CI - Statameet 2021
 
 on:
   push:

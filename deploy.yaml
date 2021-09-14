@@ -12,9 +12,11 @@ hosts:
   live:
     hostname: 'forge@159.69.125.76'
     deploy_path: '~/live.statameet.com'
+    branch: main
   staging:
     hostname: 'forge@159.69.125.76'
     deploy_path: '~/staging.statameet.com'
+    branch: dev
 
 tasks:
   npm:production:

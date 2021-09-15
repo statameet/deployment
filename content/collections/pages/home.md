@@ -12,9 +12,8 @@ sitemap_priority: 0.5
 page_builder:
   - 
     text: |-
-      Statameet
-      2021
-      YEAH!!!
+      Angeline
+      Travis
     image: portrait-angeline-travis.jpg
     type: introduction
     enabled: true
@@ -23,7 +22,7 @@ page_builder:
     text: 'Reprehenderit omnis ipsa culpa quod minima. Cumque odit voluptatem sit aut voluptatem temporibus possimus. Quasi id ea velit quaerat doloribus. Qui sit beatae ducimus laborum sequi id aut. Possimus ut eum alias vel. Voluptas neque quo non eaque doloremque possimus praesentium. Iste explicabo sit dolores sunt impedit tempore recusandae quos.'
     buttons:
       -
-        label: 'Read up on Angeline 2'
+        label: 'Read up on Angeline'
         target_blank: false
         link_type: entry
         entry: 180a5209-a2da-43d9-8354-6ef5aec85900

@@ -4,7 +4,7 @@ import:
 config:
   repository: 'git@github.com:statameet/deployment.git'
   keep_releases: 3
-  shared_dir:
+  shared_dirs:
     - public/img
 
 hosts:

@@ -26,10 +26,8 @@ tasks:
     - 'npm:production'
     - 'artisan:storage:link'
     - 'artisan:optimize:clear'
-    # - 'statamic:static:clear'
     # - 'statamic:assets:generate-presets'
     - 'statamic:stache:warm'
-    # - 'statamic:static:warm'
     - 'artisan:optimize'
     - 'deploy:publish'
 

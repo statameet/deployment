@@ -12,8 +12,8 @@ sitemap_priority: 0.5
 page_builder:
   - 
     text: |-
-      Angeline
-      Travis
+      Stameet
+      YEAHH!!!!
     image: portrait-angeline-travis.jpg
     type: introduction
     enabled: true
